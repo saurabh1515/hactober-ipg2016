@@ -1,2 +1,2 @@
 # hactober-ipg2016
-Add differetn c++ algorithms here.
+Add different c++ algorithms here.
