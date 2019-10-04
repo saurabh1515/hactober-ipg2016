@@ -115,13 +115,6 @@ int main(){
 		       6 
 		*/
 
-	// struct node *root = newNode(1);
-	// root->left = newNode(2);
-	// root->right = newNode(3);
-	// root->left->left = newNode(4);
-	// root->left->right = newNode(6);
-	// root->right->right = newNode(5);
-
 	struct node *root = newNode(1);
 	root->left = newNode(2);
 	root->right = newNode(3);
